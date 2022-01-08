@@ -1,0 +1,28 @@
+body {
+  background-color: grey;
+}
+
+.container {
+  margin: 150px auto;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  background-color: blanchedalmond;
+}
+
+.counter {
+  font-size: 200px;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 10px 30px;
+  background-color: black;
+  color: white;
+}
