@@ -1,0 +1,10 @@
+.contain {
+  margin: 300px auto;
+  width: 50%;
+  text-align: center;
+}
+
+.btn {
+  padding: 20px;
+  border-radius: 50%;
+}
