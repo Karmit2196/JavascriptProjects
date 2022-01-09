@@ -1,0 +1,60 @@
+body{
+    background-color:darkorchid ;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    background-color: lightpink;
+}
+
+.add{
+    background-color: lightgreen;
+}
+
+.done{
+    background-color: lime;
+}
+.edit{
+    background-color: darkslateblue;
+}
+.remove{
+    background-color: red;
+}
+.clear-items{
+    background-color: tomato;
+}
+.title{
+    text-align: center;
+}
+
+.data{
+    width: 50%;
+    margin-left: 100px;
+    height: 20px;
+}
+
+.clear{
+    margin: 20px;
+    text-align: center;
+}
+
+.items{
+   
+   text-align: center;
+
+}
+
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    margin: auto;
+    word-wrap: break-word;
+}
+
+.buttons{
+    position: relative;
+    top: 15px;
+}
+
