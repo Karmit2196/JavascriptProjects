@@ -1,0 +1,27 @@
+body {
+  background-color: lightsalmon;
+}
+.container {
+  margin: 20px auto;
+  width: 50%;
+  text-align: center;
+  background-color: lightyellow;
+}
+img {
+  margin-top: 10px;
+  height: 100px;
+}
+.joke {
+  font-size: 40px;
+}
+
+.get-joke:hover {
+  background-color: lightsalmon;
+  cursor: pointer;
+}
+
+.get-joke {
+  font-size: 20px;
+  background-color: yellowgreen;
+  margin: 20px;
+}
