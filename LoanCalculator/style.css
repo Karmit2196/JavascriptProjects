@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid red;
+    margin: auto;
+    width: 50%;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+.calculate{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+input{
+    width: 28%;
+}
