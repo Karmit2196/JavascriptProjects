@@ -1,0 +1,33 @@
+
+.container{
+    border: 1px solid red;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color:coral;
+}
+
+.title{
+    font-size: 40px;
+    font-family: impact;
+}
+
+.sub-title{
+    font-size: 20px;
+}
+
+.new-quote{
+    background-color: blue;
+    color: cornsilk;
+    padding: 10px 20px;
+}
+
+.new-quote:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.quote{
+    font-size: 25px;
+    color: white;
+}
